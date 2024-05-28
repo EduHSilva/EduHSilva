@@ -1,7 +1,7 @@
 ## Oiii eu sou o Edu !!
 
 - 🔭 Hoje trabalho como full-stack
-- 🌱 Estudando Java, Python e JavaScript
+- 🌱 Estudando Java, Go e JavaScript
 
 <div align="center">
   <a href="https://github.com/Eduardo681">
