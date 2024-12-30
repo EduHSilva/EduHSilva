@@ -1,13 +1,23 @@
 ## Oiii eu sou o Edu !!
 
-- 🔭 Hoje trabalho como full-stack
-- 🌱 Estudando Java, Go e JavaScript
+### Atualmente focado em aprimorar
+- Java e Golang
+- Arquitetura de software
+- Cloud AWS
 
-<div align="center">
-  <a href="https://github.com/Eduardo681">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo681&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo681&layout=compact&langs_count=7&theme=dark"/>
+<div>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6771b5d870129741a8020b9b?variant=dark" alt="roadmap.sh"/></a>
 </div>
+  
+  ##
+ 
+<div>
+  <a href="https://github.com/Eduardo681">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo681&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo681&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
